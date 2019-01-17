@@ -1,6 +1,10 @@
 body{
     background-color:purple; 
-    color: goldenrod       
+    color: goldenrod ;  
+
+    font-family: "Helvetica Neue", Helvetica,
+    sans-serif;  
+    font-size:18px;  
     }
     *{
         margin:0;
